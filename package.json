@@ -1,0 +1,17 @@
+{
+  "name": "e6b",
+  "version": "0.0.1",
+  "description": "The JavaScript flight computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e6b",
+    "aeronautics",
+    "aviation",
+    "flying"
+  ],
+  "author": "Nathan Witt <wittnl@gmail.com> (http://wi.tt/)",
+  "license": "MIT"
+}
